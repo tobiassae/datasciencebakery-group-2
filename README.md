@@ -1,4 +1,4 @@
-# Sales Forecasting for a Bakery Branch
+# Sales Forecasting for a Bakery Branch - Group 2 
 
 ## Repository Link
 
