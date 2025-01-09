@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-https://github.com/your_username/your_project_name
+https://github.com/tobiassae/datasciencebakery-group-2
 
 ## Description
 
@@ -14,15 +14,15 @@ Regression
 
 ### Results Summary
 
--   **Best Model:** [Name of the best-performing model]
+-   **Best Model:** Bakery_lstm_v6_0.ipynb
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
-    -   **Bread** (1): [XX]%
-    -   **Rolls** (2): [XX]%
-    -   **Croissant** (3): [XX]%
-    -   **Confectionery** (4): [XX]%
-    -   **Cake** (5): [XX]%
-    -   **Seasonal Bread** (6): [XX]%
+    -   **Bread** (1): 20.9%
+    -   **Rolls** (2): 18.6%
+    -   **Croissant** (3): 19.4%
+    -   **Confectionery** (4): 25.4%
+    -   **Cake** (5): 17.2%
+    -   **Seasonal Bread** (6): 50.1%
 
 ## Documentation
 
@@ -30,8 +30,9 @@ Regression
 3.  [**Dataset Characteristics (Barcharts)**](1_DatasetCharacteristics/)
 4.  [**Baseline Model**](2_BaselineModel/)
 5.  [**Model Definition and Evaluation**](3_Model/)
-6.  [**Presentation**](4_Presentation/README.md)
+6.  [**Presentation**](4_Presentation/Bakery sales predictions.pptx)
 
 ## Cover Image
 
-![](CoverImage/cover_image.png)
+![grafik](https://github.com/user-attachments/assets/6f450513-cb44-41e1-865a-99aefe758189)
+
