@@ -10,7 +10,7 @@ This project focuses on sales forecasting for a bakery branch, utilizing histori
 
 ### Task Type
 
-Regression
+Neural Network
 
 ### Results Summary
 
