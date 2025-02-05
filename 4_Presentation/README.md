@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](Bakery_sales_predictions.pptx)**
+**[Presentation slides](Bakery_sales_predictions.pptx)**
