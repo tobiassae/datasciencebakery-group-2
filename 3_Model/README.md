@@ -54,4 +54,4 @@ Warengruppe 4: 27.35%
 Warengruppe 6: 51.54%
 ```
 
-![grafik](../CoverImage/lstm_finalmodel.png))
+![grafik](../CoverImage/lstm_finalmodel.png)

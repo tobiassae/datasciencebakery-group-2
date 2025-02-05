@@ -1,7 +1,6 @@
 # Baseline Model
 Linear regression model
 
-
 ## Feature Selection
 - Created 'temperatur_binned' feature, taking the season into account (e.g. 18C might be cold in summer, but warm in winter)
 ```python

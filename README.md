@@ -36,3 +36,4 @@ Neural Network
 
 ![grafik](https://github.com/user-attachments/assets/6f450513-cb44-41e1-865a-99aefe758189)
 
+![grafik](../CoverImage/lstm_finalmodel.png)
