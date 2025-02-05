@@ -18,7 +18,7 @@ for column in df.columns:
 - Histogram
 - Q-Q plot
 - Relationship between two categorical variables
-```
+```python
 crosstab = pd.crosstab(df['KielerWoche'], df['Umsatz'])
 print(crosstab)
 ```

@@ -3,7 +3,7 @@ Linear regression model
 
 ## Feature Selection
 - Created 'temperatur_binned' feature, taking the season into account (e.g. 18C might be cold in summer, but warm in winter)
-```
+```python
 def bin_temperature(row):
         month = row['Month']
         temperature = row['Temperatur']
@@ -52,10 +52,9 @@ def bin_temperature(row):
 [Code linear regression](model_2.ipynb)
 
 ## Evaluation
+```
 Model Performance:
-Mean Squared Error: 5623.92
-R-squared Score: 0.6676
-Model Performance:
-Mean Squared Error: 5623.92
-R-squared Score: 0.6676
-Mean Absolute Percentage Error (MAPE): 33.17%
+Mean Squared Error:......................5623.92
+R-squared Score:.........................0.6676
+Mean Absolute Percentage Error (MAPE):...33.17%
+```

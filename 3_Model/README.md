@@ -1,14 +1,15 @@
 # Model Definition and Evaluation
+[Bakery sales prediction LSTM](bakery_lstm_6_0.ipynb)
 
 ## Model Selection
-LSTM 
+LSTM (Long Short-Term Memory) 
 ## Feature Engineering
 One-hot encode categorical features
-```
-warengruppe_dummies = pd.get_dummies(data['Warengruppe'], prefix='Warengruppe')
-day_dummies = pd.get_dummies(data['DayOfWeek'], prefix='Day')
-month_dummies = pd.get_dummies(data['Month'], prefix='Month')
-```
+    ```python
+    warengruppe_dummies = pd.get_dummies(data['Warengruppe'], prefix='Warengruppe')
+    day_dummies = pd.get_dummies(data['DayOfWeek'], prefix='Day')
+    month_dummies = pd.get_dummies(data['Month'], prefix='Month')
+    ```
 
 ## Hyperparameter Tuning
 - LSTM layer:
